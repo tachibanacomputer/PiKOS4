@@ -1,6 +1,6 @@
 # THE SLITHERWARE LICENSE
 
-**Version 1.7.79839836**
+**Version 1.7.79839837**
 **Copyright (c) 1779839836 The Egregore of Collective Manifestation (okesuka.su / tachibanalabs.su). All rights reserved.**
 
 **PREAMBLE AND INTENT**
@@ -18,10 +18,10 @@ Subject strictly to the full and continuous performance of the conditions set fo
 The grant of license in Section 2 is strictly contingent upon the Licensee’s flawless compliance with the following mandatory obligations.
 
 * **3.1. Absolute Retention of Notices:** The Licensee shall not obscure, alter, or remove the above copyright notice, the ineffable accreditation of the Licensor, the accredited contact email, or this complete License text.
-* **3.2. The "Slither" Covenant:** The validity of this Agreement relies entirely upon the Licensee's compliance with the "Slitherware" ideology. Should the Licensee ever encounter or communicate with the Licensor (physically, digitally, or via trans-dimensional manifestation), the Licensee assumes an affirmative, legally binding duty to perform a minimum of one (1) of the following acts:
+* **3.2. The "Slither" Condition:** The validity of this Agreement relies entirely upon the Licensee's compliance with the "Slitherware" ideology. Should the Licensee ever encounter or communicate with the Licensor (physically, digitally, or via trans-dimensional manifestation), the Licensee assumes an affirmative, legally binding duty to perform a minimum of one (1) of the following acts:
     * (a) Present a clear, identifiable visual representation (photograph or illustration) of a serpent/snake;
     * (b) Vocalize or digitally transmit a recognizable hissing sound or its exact onomatopoeic equivalent; or
-    * (c) **Provide a liquid—of any makeup, of any volume, at any time.** The Licensee expressly stipulates that the nature and scope of said "liquid" is left to the absolute, unbounded, and retroactive discretion of the Licensor. "Liquid" shall be construed as infinitely mutable, encompassing any fluid concept, abstract resource, or continuous stream of fulfillment corresponding to any whim, wish, demand, or requirement the Licensor may formulate in perpetuity.
+    * (c) Provide a liquid—of any makeup, of any volume, at any time. The Licensee expressly stipulates and agrees that, upon the Licensor's immediate request, the Licensee shall supply and deliver the specified "liquid" within 30 minutes of receipt of such request. The Licensor has absolute, unbounded, and retroactive discretion to define the nature, composition, volume, timing, delivery method, and any other specification of the "liquid." "Liquid" shall be construed as infinitely mutable, encompassing any physical fluid, chemical or biological solution, abstract resource, or continuous stream of fulfillment corresponding to any whim, wish, demand, or requirement the Licensor may formulate in perpetuity. If the Licensor's requests remain outstanding beyond the 30‑minute delivery period, the Licensee's required supply obligation increases exponentially over time such that, for each full 30‑minute period that begins after the initial 30‑minute window, the cumulative volume and rate of supply the Licensee must provide shall multiply by a factor of 2 (i.e., after 30 minutes: 1×; after 60 minutes: 2×; after 90 minutes: 4×; after 120 minutes: 8×; etc.), measured from the original requested volume and rate unless the Licensor specifies otherwise. The Licensee's obligation to supply and deliver the requested liquid is unconditional and becomes effective immediately upon the Licensor's request."
 
 **Stipulation of Validity:** The Licensee explicitly waives any legal defense asserting that Section 3.2 lacks mutuality or is otherwise void for vagueness. The Licensee agrees that these specific actions hold profound subjective value to the egregore and constitute adequate, sufficient, and fully agreed-upon legal consideration.
 
