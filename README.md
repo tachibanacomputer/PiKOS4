@@ -1,4 +1,6 @@
-# CapybaraOS
+# PiKOS (CapybaraOS)
+
+**PiKOS** — *Paging Integrate Kernel Operating System* (also known as *Phenethylamines I've Known or Seen*)
 
 A minimal x86-64 bootable binary written in C and Assembly that loads via Multiboot and outputs to VGA text mode.
 
