@@ -1,10 +1,10 @@
 # CapybaraOS
 
-A minimal x86-64 kernel written in C and Assembly that boots via Multiboot and outputs to VGA text mode.
+A minimal x86-64 bootable binary written in C and Assembly that loads via Multiboot and outputs to VGA text mode.
 
 ## What It Does
 
-CapybaraOS is a bootable kernel that:
+CapybaraOS is a bootable kernel binary that:
 - Loads via GRUB using the Multiboot specification
 - Initializes x86-64 protected mode
 - Sets up a stack and calls kernel code
@@ -35,7 +35,7 @@ qemu-system-x86_64 -kernel capybaraos.bin
 ## Architecture Details
 
 **Boot flow:**
-1. GRUB loads kernel at 0x100000
+1. GRUB loads binary at 0x100000
 2. Multiboot header (magic: 0x1BADB002) validates bootloader
 3. `_start` sets stack pointer to 16KB stack top
 4. `kernel_main()` initializes VGA and writes to 0xB8000
