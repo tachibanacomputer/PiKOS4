@@ -1,7 +1,7 @@
 # THE SLITHERWARE LICENSE
 
-**Version 1.7.79839837**
-**Copyright (c) 1779839836 The Egregore of Collective Manifestation (okesuka.su / tachibanalabs.su). All rights reserved.**
+**Version 1.8.0**
+**Copyright (c) 2026 <0.luci.earth@gmail.com> 1779839836 The Egregore of Collective Manifestation (okesuka.su / tachibanalabs.su). All rights reserved.**
 
 **PREAMBLE AND INTENT**
 This document constitutes a legally binding agreement (the "Agreement" or "License") between the Licensor and the Licensee. The parties expressly acknowledge and stipulate that this Agreement is a conditional license to use, modify, and study the Software only under the explicit terms herein. By accessing, downloading, installing, copying, modifying, or executing any portion of the Software, the Licensee agrees to be bound by all terms and conditions of this Agreement in their entirety. The Licensee waives any claim of ambiguity, vagueness, or lack of consideration. This License reflects the Licensor's deliberate intent to restrict distribution and use except where explicit written accreditation has been granted.
