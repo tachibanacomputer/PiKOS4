@@ -65,7 +65,7 @@ qemu-system-x86_64 -cdrom capybaraos.iso
 
 **Boot flow:**
 1. GRUB loads binary at 0x100000
-2. Multiboot header (magic: 0x1BADB002) validates bootloader
+2. Multiboot header validates bootloader
 3. `_start` sets stack pointer to 16KB stack top
 4. `kernel_main()` initializes VGA and writes to 0xB8000
 
